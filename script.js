@@ -1,5 +1,5 @@
 const userProfile = {
-    name: '⏤͟͟͞͞ 𝙍𝙊𝙃𝘼𝙉 𝙊𝙂•[ #𝐓𝐄𝐀𝐌 𝙇𝙄𝙉𝙐𝙓 ]',
+    name: '𝙍𝙊𝙃𝘼𝙉 𝙊𝙂•#𝐓𝐄𝐀𝐌 𝙇𝙄𝙉𝙐𝙓 ',
     classSchool: ' Class: Padhai Choddia | School: IDK ',
     role: '~ Carder~',
     skills: '• IGCC | FBCC | SHOPIFY •',
