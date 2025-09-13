@@ -1,1 +1,82 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #000;
+    color: #00ff00;
+    text-align: center;
+    background-image: url('matrix-bg.gif');
+    background-size: cover;
+}
 
+.container {
+    padding: 2rem;
+}
+
+.profile-card {
+    background-color: #111;
+    padding: 2rem;
+    border: 2px dashed #00ff00;
+    display: inline-block;
+    text-align: center;
+}
+
+.profile-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid #00ff00;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    margin-bottom: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.about p {
+    margin: 0.5rem 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.buttons {
+    margin-top: 1rem;
+}
+
+.btn {
+    padding: 0.5rem 1rem;
+    background-color: transparent;
+    color: #00ff00;
+    border: 1px solid #00ff00;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 0.5rem;
+}
+
+.btn-outline {
+    padding: 0.5rem 1rem;
+    border: 1px dashed #00ff00;
+    color: #00ff00;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.links {
+    margin-top: 2rem;
+}
+
+.rohan-link {
+    display: block;
+    color: #00ff00;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0.5rem 0;
+}
+
+.rohan-link img {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    margin-right
+      : 0.5rem;
+}
