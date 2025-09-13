@@ -1,10 +1,10 @@
 const userProfile = {
-    name: '𝙍𝙊𝙃𝘼𝙉 𝙊𝙂•#𝐓𝐄𝐀𝐌 𝙇𝙄𝙉𝙐𝙓 ',
+    name: '𝙍𝙊𝙃𝘼𝙉 𝙊𝙂• ',
     classSchool: ' Class: Padhai Choddia | School: IDK ',
     role: '~ Carder~',
     skills: '• IGCC | FBCC | SHOPIFY •',
     telegramLink: 'https://t.me/Smiyq',
-    bitcoinLink: ''
+    bitcoinLink: 'https://t.me/Smiyq'
 };
 
 document.getElementById('name').innerText = userProfile.name;
